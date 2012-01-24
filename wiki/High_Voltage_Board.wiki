@@ -1,0 +1,27 @@
+#summary High Voltage Board for mini-Time Cube
+#labels Phase-Requirements
+
+= Introduction =
+
+
+
+
+= Details =
+
+Parts List
+
+1) Cathode to MCPin 500V: 510kOhm:
+http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
+
+2) MCPin to MCPout 2000V: 5.1MOhm:
+http://search.digikey.com/us/en/products/VR68000005104JAC00/VR68J5.1MCT-ND/1995222
+
+3) MCPout to Anode 500V: 510kOhm (same as 1):
+http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
