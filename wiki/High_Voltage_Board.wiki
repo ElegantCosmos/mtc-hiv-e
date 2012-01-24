@@ -10,6 +10,7 @@
 
 Parts List
 
+Resistors
 1) Cathode to MCPin 500V: 510kOhm:
 http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
 
@@ -19,6 +20,9 @@ http://search.digikey.com/us/en/products/VR68000005104JAC00/VR68J5.1MCT-ND/19952
 3) MCPout to Anode 500V: 510kOhm (same as 1):
 http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
 
+Capacitor
+0.0047uF: 
+http://search.digikey.com/us/en/products/DEBB33D472KA3B/490-4278-ND/1021144
 
 
 Add your content here.  Format your content with:
