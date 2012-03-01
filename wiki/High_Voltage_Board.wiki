@@ -33,6 +33,7 @@ Single Row/ Right Angle/ Thru Hole/ Pegs/ Tray
 Man Part # 43650-0600 (Female) & 43645-0600 (Male)
 
 Female - http://search.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&site=us&KeyWords=43650-0600
+
 Male - http://search.digikey.com/us/en/products/0436450600/WM1849-ND/268978
 
 Termination 
