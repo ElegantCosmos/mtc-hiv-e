@@ -10,7 +10,7 @@
 
 Parts List
 
-Resistors
+Resistors->
 1) Cathode to MCPin 500V: 510kOhm:
 http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
 
@@ -20,9 +20,21 @@ http://search.digikey.com/us/en/products/VR68000005104JAC00/VR68J5.1MCT-ND/19952
 3) MCPout to Anode 500V: 510kOhm (same as 1):
 http://search.digikey.com/us/en/products/PR03000205103JAC00/PPC510KW-3JCT-ND/597510
 
-Capacitor
+Capacitor->
 0.0047uF: 
 http://search.digikey.com/us/en/products/DEBB33D472KA3B/490-4278-ND/1021144
+
+Connector->
+6 Contact - Molex Mated Micro Fit Connector (3.0)
+Single Row/ Right Angle/ Thru Hole/ Pegs/ Tray
+Man Part # 43650-0600 (Female) & 43645-0600 (Male)
+Female - http://search.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&site=us&KeyWords=43650-0600
+Male - http://search.digikey.com/us/en/products/0436450600/WM1849-ND/268978
+Termination 
+Man Part # 43030-0007
+http://search.digikey.com/us/en/products/43030-0007/WM1837-ND/252479
+
+WIRE??
 
 
 Add your content here.  Format your content with:
