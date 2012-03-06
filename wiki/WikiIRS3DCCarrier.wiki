@@ -9,10 +9,10 @@ The IRS3 Daughter Card will have its own carrier board to interface it with the 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+#Add your content here.  Format your content with:
+  #* Text in *bold* or _italic_
+  #* Headings, paragraphs, and lists
+  #* Automatic links to other wiki pages
 Current issues:
 "Insufficient inner clearance" error report from 4PCB.com.
 https://www.freedfm.com/freedfm/0018067603148324/results/inner_plane_small_clearance.htm
